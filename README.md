@@ -55,14 +55,14 @@ To create a standalone executable {.exe} file and a folder containing all necess
 2. Create the standalone executable and folder:
 
    ```bash
-   pyinstaller --onefile --distpath=./my_folder --clean your_script.py
+   pyinstaller --onefile --distpath=./floating_clock --clean clock.py
    ```
 
-   Replace `your_script.py` with the actual filename of your Python script.
+   Replace `clock.py` with the actual filename of your Python script.
 
 3. Locate the generated files:
 
-   After running the command, find a folder named `my_folder` in your script's directory. Inside that folder, you'll find the standalone executable and any necessary files.
+   After running the command, find a folder named `floating_clock` in your script's directory. Inside that folder, you'll find the standalone executable and any necessary files.
 
 
 ## Screenshots
