@@ -44,7 +44,7 @@ The Floating Digital Clock, version 1.5, is a Python Tkinter application that pr
 
 ## Folder Installation
 
-To create a standalone executable file and a folder containing all necessary files, you can use PyInstaller. Follow the steps below:
+To create a standalone executable {.exe} file and a folder containing all necessary files, you can use PyInstaller. Follow the steps below:
 
 1. Install PyInstaller:
 
